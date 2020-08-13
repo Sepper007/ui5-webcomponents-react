@@ -1,2 +1,0 @@
-/*! modernizr 3.8.0 (Custom Build) | MIT *
- * https://modernizr.com/download/?-devicemotion_deviceorientation-matchmedia-placeholder-pointerevents-touchevents-websockets !*/
